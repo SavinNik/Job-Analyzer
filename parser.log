@@ -1,0 +1,59 @@
+2025-09-28 17:21:42,439 [INFO] src.scraper.hh_scraper: Планировщик запущен. Парсер будет запускаться каждый день в 09:00
+2025-09-28 17:23:12,651 [INFO] src.scraper.hh_scraper: Начинаем парсинг вакансий по запросу: 'Python разработчик', отрасль: 7
+2025-09-28 17:23:13,624 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=0&per_page=100&search_field=name&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:23:13,662 [INFO] src.scraper.hh_scraper: Страница 0: получено 100 вакансий.
+2025-09-28 17:23:14,543 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=1&per_page=100&search_field=name&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:23:14,563 [INFO] src.scraper.hh_scraper: Страница 1: получено 100 вакансий.
+2025-09-28 17:23:15,364 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=2&per_page=100&search_field=name&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:23:15,371 [INFO] src.scraper.hh_scraper: Страница 2: получено 100 вакансий.
+2025-09-28 17:23:16,184 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=3&per_page=100&search_field=name&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:23:16,198 [INFO] src.scraper.hh_scraper: Страница 3: получено 100 вакансий.
+2025-09-28 17:23:17,003 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=4&per_page=100&search_field=name&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:23:17,006 [INFO] src.scraper.hh_scraper: Страница 4: получено 52 вакансий.
+2025-09-28 17:23:17,595 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=5&per_page=100&search_field=name&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:23:17,596 [INFO] src.scraper.hh_scraper: На странице 5 вакансий больше нет. Останавливаемся.
+2025-09-28 17:23:17,596 [INFO] src.scraper.hh_scraper: Всего собрано 452 вакансий.
+2025-09-28 17:23:17,654 [INFO] src.scraper.hh_scraper: Сохранено 452 вакансий в data/raw/vacancies_20250928_172317.json
+2025-09-28 17:24:49,029 [INFO] src.scraper.hh_scraper: Начинаем парсинг вакансий по запросу: 'Python разработчик', отрасль: 7
+2025-09-28 17:24:50,007 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=0&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:50,029 [INFO] src.scraper.hh_scraper: Страница 0: получено 100 вакансий.
+2025-09-28 17:24:50,907 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=1&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:50,915 [INFO] src.scraper.hh_scraper: Страница 1: получено 100 вакансий.
+2025-09-28 17:24:51,725 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=2&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:51,734 [INFO] src.scraper.hh_scraper: Страница 2: получено 100 вакансий.
+2025-09-28 17:24:52,543 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=3&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:52,551 [INFO] src.scraper.hh_scraper: Страница 3: получено 100 вакансий.
+2025-09-28 17:24:53,576 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=4&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:53,584 [INFO] src.scraper.hh_scraper: Страница 4: получено 100 вакансий.
+2025-09-28 17:24:54,592 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=5&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:54,600 [INFO] src.scraper.hh_scraper: Страница 5: получено 100 вакансий.
+2025-09-28 17:24:55,513 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=6&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:55,521 [INFO] src.scraper.hh_scraper: Страница 6: получено 100 вакансий.
+2025-09-28 17:24:56,538 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=7&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:56,545 [INFO] src.scraper.hh_scraper: Страница 7: получено 100 вакансий.
+2025-09-28 17:24:57,975 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=8&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:57,981 [INFO] src.scraper.hh_scraper: Страница 8: получено 100 вакансий.
+2025-09-28 17:24:58,893 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=9&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:58,952 [INFO] src.scraper.hh_scraper: Страница 9: получено 100 вакансий.
+2025-09-28 17:24:59,917 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=10&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:24:59,925 [INFO] src.scraper.hh_scraper: Страница 10: получено 100 вакансий.
+2025-09-28 17:25:00,943 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=11&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:00,955 [INFO] src.scraper.hh_scraper: Страница 11: получено 100 вакансий.
+2025-09-28 17:25:01,965 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=12&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:01,974 [INFO] src.scraper.hh_scraper: Страница 12: получено 100 вакансий.
+2025-09-28 17:25:02,887 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=13&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:02,894 [INFO] src.scraper.hh_scraper: Страница 13: получено 100 вакансий.
+2025-09-28 17:25:03,809 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=14&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:03,816 [INFO] src.scraper.hh_scraper: Страница 14: получено 100 вакансий.
+2025-09-28 17:25:04,858 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=15&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:04,876 [INFO] src.scraper.hh_scraper: Страница 15: получено 100 вакансий.
+2025-09-28 17:25:05,703 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=16&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:05,710 [INFO] src.scraper.hh_scraper: Страница 16: получено 100 вакансий.
+2025-09-28 17:25:06,675 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=17&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:06,683 [INFO] src.scraper.hh_scraper: Страница 17: получено 100 вакансий.
+2025-09-28 17:25:07,698 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=18&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:07,705 [INFO] src.scraper.hh_scraper: Страница 18: получено 100 вакансий.
+2025-09-28 17:25:09,031 [INFO] httpx: HTTP Request: GET https://api.hh.ru/vacancies?text=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&page=19&per_page=100&industry=7 "HTTP/1.1 200 OK"
+2025-09-28 17:25:09,038 [INFO] src.scraper.hh_scraper: Страница 19: получено 100 вакансий.
+2025-09-28 17:25:09,038 [INFO] src.scraper.hh_scraper: Всего собрано 2000 вакансий.
+2025-09-28 17:25:09,263 [INFO] src.scraper.hh_scraper: Сохранено 2000 вакансий в data/raw/vacancies_2025-09-28T17:25:09.038954.json
