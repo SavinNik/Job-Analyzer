@@ -9,7 +9,6 @@ from asyncio import Semaphore
 
 from src.scraper.scraper_config import HH_QUERY, HH_INDUSTRY, HH_DELAY, OUTPUT_DIR, MAX_PAGES, MAX_CONCURRENT_REQUESTS
 
-
 # Настройка логирования
 logging.basicConfig(
     level=logging.INFO,
@@ -26,6 +25,7 @@ class HHVacanciesParser:
     """
     Асинхронный парсер вакансий с HH.ru.
     """
+
     def __init__(self, delay: float = HH_DELAY):
         self.base_url = "https://api.hh.ru/vacancies"
         self.delay = delay
@@ -54,26 +54,45 @@ class HHVacanciesParser:
             await asyncio.sleep(self.delay)
             response = await self._session.get(self.base_url, params=params)
             response.raise_for_status()
+
+            remaining = int(response.headers.get("X-RateLimit-Remaining", 10))
+            if remaining < 5:
+                logger.warning(f"Близко к лимиту запросов. Осталось: {remaining}. Пауза...")
+                await asyncio.sleep(10)
+
             return response.json()
 
-    async def parse_vacancies(self, query: str, industry: int = HH_INDUSTRY, max_pages: int = MAX_PAGES) -> List[Dict[str, Any]]:
+    async def parse_vacancies(self, query: str, industry: int = HH_INDUSTRY, max_pages: int = MAX_PAGES) -> List[
+        Dict[str, Any]]:
         """
         Асинхронный парсинг всех страниц вакансий.
         """
         logger.info(f"Начинаем парсинг вакансий по запросу: '{query}', отрасль: {industry}")
 
-        tasks = [
-            self._fetch_page({
+        first_page = await self._fetch_page({
+            "text": query,
+            "page": 0,
+            "per_page": 100,
+            "search_field": "name",
+            "industry": industry
+        })
+
+        total_pages = min(max_pages, first_page.get("pages", 1))
+        logger.info(f"Всего найдено страниц: {first_page.get('pages', 1)}, будет обработано: {total_pages}")
+
+        tasks = []
+        for page in range(1, total_pages):
+            tasks.append(self._fetch_page({
                 "text": query,
                 "page": page,
                 "per_page": 100,
                 "search_field": "name",
                 "industry": industry
-            })
-            for page in range(max_pages)
-        ]
+            }))
 
-        all_vacancies = []
+        all_vacancies = first_page.get("items", [])
+
+        # Обрабатываем оставшиеся страницы
         for task in asyncio.as_completed(tasks):
             try:
                 data = await task
