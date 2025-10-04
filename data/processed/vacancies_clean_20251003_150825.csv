@@ -1,0 +1,435 @@
+id,title,salary_from,salary_to,currency,experience,experience_label,skills,area_name,published_at,url
+126073138,Middle+ Python Developer,,324034.0,RUR,moreThan6,Более 6 лет,"FastAPI, Python, Rust",Астана,2025-10-02 15:43:22+03:00,https://hh.ru/vacancy/126073138
+125979327,Junior Python разработчик,,,RUR,noExperience,Нет опыта,"Django, Python",Москва,2025-09-30 17:28:27+03:00,https://hh.ru/vacancy/125979327
+126106805,Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, MySQL, PostgreSQL, Python",Тбилиси,2025-10-03 11:53:55+03:00,https://hh.ru/vacancy/126106805
+126025161,Python developer (Middle),,,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Kafka, Python, REST",Санкт-Петербург,2025-10-01 16:30:29+03:00,https://hh.ru/vacancy/126025161
+125933323,Python Developer,130000.0,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Git, Python, SQL",Москва,2025-09-30 07:24:18+03:00,https://hh.ru/vacancy/125933323
+126082167,Middle Python Developer,200000.0,,RUR,between3And6,От 3 до 6 лет,"Celery, FastAPI, Flask, Kafka, MySQL, Python, Redis",Санкт-Петербург,2025-10-02 18:22:49+03:00,https://hh.ru/vacancy/126082167
+125977327,Python-разработчик (junior),,,RUR,between1And3,От 1 года до 3 лет,"Django, FastAPI, Git, Python, pytest",Москва,2025-09-30 16:47:12+03:00,https://hh.ru/vacancy/125977327
+126054919,Python Developer,300000.0,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-10-02 11:07:05+03:00,https://hh.ru/vacancy/126054919
+126031777,Junior Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"API, Python, REST",Санкт-Петербург,2025-10-01 19:50:20+03:00,https://hh.ru/vacancy/126031777
+125976319,Python junior/middle разработчик,90000.0,130000.0,RUR,between1And3,От 1 года до 3 лет,"Git, PostgreSQL, Python",Казань,2025-09-30 16:31:57+03:00,https://hh.ru/vacancy/125976319
+126101615,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Grafana, Prometheus, Python, Vue",Санкт-Петербург,2025-10-03 10:37:49+03:00,https://hh.ru/vacancy/126101615
+125063498,Python разработчик,160000.0,200000.0,RUR,between1And3,От 1 года до 3 лет,"API, Python",Москва,2025-10-02 12:01:18+03:00,https://hh.ru/vacancy/125063498
+126012979,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,,Москва,2025-10-01 13:31:24+03:00,https://hh.ru/vacancy/126012979
+126087246,Python-разработчик,200000.0,200000.0,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-10-03 00:41:13+03:00,https://hh.ru/vacancy/126087246
+125971863,"Python-разработчик (Django, FastAPI)",,200000.0,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Python",Москва,2025-09-30 15:17:36+03:00,https://hh.ru/vacancy/125971863
+125894146,Разработчик Python,,250000.0,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-29 12:33:18+03:00,https://hh.ru/vacancy/125894146
+125933347,Python разработчик,,410000.0,RUR,moreThan6,Более 6 лет,"API, Python",Москва,2025-09-30 07:24:39+03:00,https://hh.ru/vacancy/125933347
+125955065,Backend-разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,"FastAPI, PostgreSQL, Python",Москва,2025-09-30 12:00:42+03:00,https://hh.ru/vacancy/125955065
+125145422,Middle Python разработчик,,250000.0,RUR,between3And6,От 3 до 6 лет,"API, Python",Москва,2025-10-02 12:01:18+03:00,https://hh.ru/vacancy/125145422
+125471403,Python backend разработчик,200000.0,220000.0,RUR,between3And6,От 3 до 6 лет,"API, Django, Docker, Linux, REST, Redis",Москва,2025-09-18 10:40:02+03:00,https://hh.ru/vacancy/125471403
+125538232,Middle Backed Python разработчик,,,RUR,between1And3,От 1 года до 3 лет,"Django, Python, REST",Ташкент,2025-09-19 15:49:27+03:00,https://hh.ru/vacancy/125538232
+125655660,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Python, pytest",Москва,2025-09-23 13:04:05+03:00,https://hh.ru/vacancy/125655660
+126032874,Middle Python Developer,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-10-01 20:57:28+03:00,https://hh.ru/vacancy/126032874
+126073718,"Python developer (middle, middle+)",,,RUR,between3And6,От 3 до 6 лет,"Django, Python",Воронеж,2025-10-02 15:54:04+03:00,https://hh.ru/vacancy/126073718
+126108010,Python Developer (Openstack),,,RUR,between3And6,От 3 до 6 лет,"API, Bash, Python",Москва,2025-10-03 12:12:12+03:00,https://hh.ru/vacancy/126108010
+126114471,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Flask, Kafka, Python, Redis",Казань,2025-10-03 14:10:08+03:00,https://hh.ru/vacancy/126114471
+125898084,Python developer,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Python",Москва,2025-09-29 13:27:27+03:00,https://hh.ru/vacancy/125898084
+125689509,Python Backend-разработчик,44255.0,,RUR,between1And3,От 1 года до 3 лет,"API, Celery, FastAPI, PostgreSQL, Python",Алматы,2025-09-24 10:01:33+03:00,https://hh.ru/vacancy/125689509
+126069593,Python разработчик (Django),,,RUR,moreThan6,Более 6 лет,"Django, FastAPI, Flask, MongoDB, MySQL, PostgreSQL",Москва,2025-10-02 14:46:01+03:00,https://hh.ru/vacancy/126069593
+125532366,"Python Developer (FastAPI, Microservices)",,,RUR,between1And3,От 1 года до 3 лет,"Celery, FastAPI, Python",Гродно,2025-09-19 14:11:01+03:00,https://hh.ru/vacancy/125532366
+125106810,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-09 14:48:45+03:00,https://hh.ru/vacancy/125106810
+126005866,Middle Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"API, Python",Санкт-Петербург,2025-10-01 11:47:22+03:00,https://hh.ru/vacancy/126005866
+125953611,Python-разработчик (Junior),,50000.0,RUR,between1And3,От 1 года до 3 лет,"API, Git, PostgreSQL, Python, REST, SQL",Москва,2025-09-30 11:52:11+03:00,https://hh.ru/vacancy/125953611
+125163119,Python AI-developer,,,RUR,between1And3,От 1 года до 3 лет,,Москва,2025-09-10 15:22:51+03:00,https://hh.ru/vacancy/125163119
+125345464,Backend Python Developer (Middle+/Senior),,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-15 17:04:23+03:00,https://hh.ru/vacancy/125345464
+125078993,Python backend разработчик,,,RUR,between1And3,От 1 года до 3 лет,"Celery, Django, FastAPI, Git, Python, React",Санкт-Петербург,2025-09-09 08:49:21+03:00,https://hh.ru/vacancy/125078993
+125847488,Junior-Middle Python Backend разработчик (VPN-сервис),120000.0,150000.0,RUR,between1And3,От 1 года до 3 лет,"API, Python, asyncio",Обнинск,2025-10-02 15:22:28+03:00,https://hh.ru/vacancy/125847488
+125621014,Junior Python Developer,60000.0,90000.0,RUR,noExperience,Нет опыта,"Node.js, Python, TypeScript",Москва,2025-09-22 17:12:03+03:00,https://hh.ru/vacancy/125621014
+125933344,Middle - python - разработчик,,150000.0,RUR,between1And3,От 1 года до 3 лет,"API, PostgreSQL, Python, REST, SQL",Москва,2025-09-30 07:24:38+03:00,https://hh.ru/vacancy/125933344
+126011309,Python Middle/Senior разработчик,132764.0,162268.0,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Flask, MySQL, PostgreSQL, Python, REST, Redis",Астана,2025-10-01 13:06:19+03:00,https://hh.ru/vacancy/126011309
+125626834,Backend-разработчик на Python,230000.0,350000.0,RUR,between1And3,От 1 года до 3 лет,"API, Flask, Python",Москва,2025-09-22 23:26:28+03:00,https://hh.ru/vacancy/125626834
+125997975,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Москва,2025-10-01 10:02:07+03:00,https://hh.ru/vacancy/125997975
+125906350,Junior Python разработчик,90000.0,,RUR,between1And3,От 1 года до 3 лет,"API, Django, FastAPI, Flask, Python, REST, SQL",Челябинск,2025-09-29 15:20:22+03:00,https://hh.ru/vacancy/125906350
+125861157,"Full Stack Developer (Middle, Python)",103261.0,162268.0,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, PostgreSQL, Python, REST",Алматы,2025-09-27 17:37:38+03:00,https://hh.ru/vacancy/125861157
+125980606,Junior Python Developer,59006.0,88510.0,RUR,between1And3,От 1 года до 3 лет,"API, FastAPI, Flask, Python, REST",Алматы,2025-09-30 18:06:30+03:00,https://hh.ru/vacancy/125980606
+125900655,Senior Python developer,,,RUR,between3And6,От 3 до 6 лет,"Linux, Python",Москва,2025-09-29 14:04:21+03:00,https://hh.ru/vacancy/125900655
+125302486,Senior Python разработчик,250000.0,,RUR,between3And6,От 3 до 6 лет,"API, Python",Москва,2025-10-03 05:51:47+03:00,https://hh.ru/vacancy/125302486
+124878448,Разработчик (Python),,,RUR,between1And3,От 1 года до 3 лет,"API, Python, REST",Москва,2025-09-04 14:15:33+03:00,https://hh.ru/vacancy/124878448
+125866433,Junior Python Developer,,,RUR,noExperience,Нет опыта,"CI/CD, Django, FastAPI, Flask, Python, asyncio",Минск,2025-09-28 16:39:36+03:00,https://hh.ru/vacancy/125866433
+125962759,Python разработчик Middle+,150000.0,200000.0,RUR,between3And6,От 3 до 6 лет,"API, Python",Санкт-Петербург,2025-10-03 12:57:09+03:00,https://hh.ru/vacancy/125962759
+125672281,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-23 17:53:11+03:00,https://hh.ru/vacancy/125672281
+125281905,Разработчик Python,,,RUR,between3And6,От 3 до 6 лет,,Казань,2025-09-12 15:51:06+03:00,https://hh.ru/vacancy/125281905
+125391904,Senior Python разработчик,220000.0,350000.0,RUR,between3And6,От 3 до 6 лет,"Linux, Python, SQL, asyncio",Москва,2025-09-16 14:23:38+03:00,https://hh.ru/vacancy/125391904
+124882428,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Git, Linux, Python, SQL",Краснодар,2025-09-04 15:11:22+03:00,https://hh.ru/vacancy/124882428
+124075153,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Flask, Python",Краснодар,2025-09-12 16:33:46+03:00,https://hh.ru/vacancy/124075153
+125137517,Backend-разработчик (Python),,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Python",Москва,2025-09-10 10:06:25+03:00,https://hh.ru/vacancy/125137517
+125602176,Стажер-разработчик (Python),62341.0,,RUR,noExperience,Нет опыта,"CSS, Django, HTML, Python, SQL",Минск,2025-09-22 12:33:51+03:00,https://hh.ru/vacancy/125602176
+125723354,Python Developer / Backend (Junior+),80000.0,140000.0,RUR,between1And3,От 1 года до 3 лет,"FastAPI, JWT, PostgreSQL, Python, RabbitMQ, Redis, asyncio",Екатеринбург,2025-09-24 16:14:50+03:00,https://hh.ru/vacancy/125723354
+126014091,Инженер-программист (Python AI),,,RUR,between3And6,От 3 до 6 лет,"API, FastAPI, Python",Минск,2025-10-01 13:40:12+03:00,https://hh.ru/vacancy/126014091
+125879653,Python разработчик,100000.0,250000.0,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Уфа,2025-09-29 09:34:35+03:00,https://hh.ru/vacancy/125879653
+125587889,Python developer,200000.0,,RUR,between3And6,От 3 до 6 лет,"CI/CD, Python",Москва,2025-09-22 09:54:08+03:00,https://hh.ru/vacancy/125587889
+126064657,Python-разработчик (Middle) (ACM),,,RUR,between3And6,От 3 до 6 лет,"FastAPI, PostgreSQL, Python",Москва,2025-10-02 13:28:38+03:00,https://hh.ru/vacancy/126064657
+125318012,Python Developer,,,RUR,between1And3,От 1 года до 3 лет,,Москва,2025-10-03 10:37:49+03:00,https://hh.ru/vacancy/125318012
+125897979,Python разработчик (Middle+ / Senior),,,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Python",Москва,2025-09-29 13:25:41+03:00,https://hh.ru/vacancy/125897979
+126093384,Разработчик Python (интеграции с 1С),,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-10-03 08:34:12+03:00,https://hh.ru/vacancy/126093384
+125767051,Python developer/full stack (junior),60000.0,120000.0,RUR,between1And3,От 1 года до 3 лет,"Python, React, Vue",Новосибирск,2025-09-25 13:35:10+03:00,https://hh.ru/vacancy/125767051
+125623152,Python-разработчик (Django),,,RUR,between3And6,От 3 до 6 лет,"CSS, Django, FastAPI, Flask, HTML, PostgreSQL",Оренбург,2025-09-22 17:58:50+03:00,https://hh.ru/vacancy/125623152
+125783231,Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"Django, FastAPI, Flask, Python",Санкт-Петербург,2025-10-01 15:26:23+03:00,https://hh.ru/vacancy/125783231
+125499486,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"Django, Python, SQL",Новосибирск,2025-09-18 17:26:33+03:00,https://hh.ru/vacancy/125499486
+125118918,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"API, Docker, Git, PostgreSQL, Python, REST",Москва,2025-09-09 17:24:28+03:00,https://hh.ru/vacancy/125118918
+125868593,Backend (Go/Python) Developer,100000.0,,RUR,between1And3,От 1 года до 3 лет,"Go, PostgreSQL, Python, SQL",Москва,2025-09-28 23:46:45+03:00,https://hh.ru/vacancy/125868593
+125688207,Python Backend (junior+/middle) разработчик,53630.0,100556.0,RUR,between1And3,От 1 года до 3 лет,"Django, FastAPI, Flask, Python",Самарканд,2025-09-24 09:43:50+03:00,https://hh.ru/vacancy/125688207
+125966326,Python разработчик (Middle+ / Senior),,,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Python",Москва,2025-09-30 13:40:08+03:00,https://hh.ru/vacancy/125966326
+125221350,Python-разработчик,120000.0,,RUR,between1And3,От 1 года до 3 лет,"Django, FastAPI, MySQL, PostgreSQL, Python",Ростов-на-Дону,2025-09-11 13:10:20+03:00,https://hh.ru/vacancy/125221350
+125799412,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"API, Docker, Kafka, Linux, PostgreSQL, Python, Redis",Москва,2025-09-25 16:43:16+03:00,https://hh.ru/vacancy/125799412
+126010038,Python-разработчик (Ментор/Лид),100000.0,250000.0,RUR,between3And6,От 3 до 6 лет,"API, Python",Ростов-на-Дону,2025-10-01 12:50:19+03:00,https://hh.ru/vacancy/126010038
+125432136,Computer Vision Engineer/Python developer (junior/стажер),,,RUR,noExperience,Нет опыта,Python,Симферополь,2025-09-17 12:06:10+03:00,https://hh.ru/vacancy/125432136
+121721195,Python-разработчик,190000.0,300000.0,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-09 10:36:42+03:00,https://hh.ru/vacancy/121721195
+125446479,Middle Python разработчик,180000.0,,RUR,between3And6,От 3 до 6 лет,"Kubernetes, pytest",Санкт-Петербург,2025-09-17 15:41:57+03:00,https://hh.ru/vacancy/125446479
+125344584,Backend Developer (Python),,250000.0,RUR,between1And3,От 1 года до 3 лет,"API, Django, FastAPI, Python, asyncio",Казань,2025-09-30 16:47:53+03:00,https://hh.ru/vacancy/125344584
+125505427,Middle Python разработчик в аутстаф направление,,260000.0,RUR,between3And6,От 3 до 6 лет,"Django, Docker, FastAPI, Python, SQL",Москва,2025-09-19 03:02:22+03:00,https://hh.ru/vacancy/125505427
+126073072,Разработчик на Python / Django (Middle),,,RUR,between1And3,От 1 года до 3 лет,Python,Кострома,2025-10-02 15:41:49+03:00,https://hh.ru/vacancy/126073072
+125283346,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"Django, PostgreSQL, Python, Redis",Ташкент,2025-09-12 16:14:39+03:00,https://hh.ru/vacancy/125283346
+125380713,Python developer,,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-16 11:38:29+03:00,https://hh.ru/vacancy/125380713
+125460804,Backend-разработчик (Python FastAPI),100000.0,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, PostgreSQL, Python",Пермь,2025-09-18 08:02:36+03:00,https://hh.ru/vacancy/125460804
+125300291,Python Developer,50000.0,100000.0,RUR,between1And3,От 1 года до 3 лет,"Django, PostgreSQL, Python",Гродно,2025-09-14 21:25:05+03:00,https://hh.ru/vacancy/125300291
+125668987,Python-разработчик,162017.0,202521.0,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, GraphQL, Python, REST",Алматы,2025-09-23 16:41:33+03:00,https://hh.ru/vacancy/125668987
+125833938,Python-разработчик программного обеспечения,,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-26 11:19:09+03:00,https://hh.ru/vacancy/125833938
+124491119,Senior Backend Python Developer,,,RUR,between3And6,От 3 до 6 лет,"API, CI/CD, MySQL, Python, Redis",Красноярск,2025-09-19 06:20:24+03:00,https://hh.ru/vacancy/124491119
+126074947,Senior Python разработчик,,350000.0,RUR,moreThan6,Более 6 лет,,Москва,2025-10-02 16:17:17+03:00,https://hh.ru/vacancy/126074947
+125612761,Разработчик Python,,180000.0,RUR,between1And3,От 1 года до 3 лет,,Санкт-Петербург,2025-09-22 15:08:48+03:00,https://hh.ru/vacancy/125612761
+126008885,Python developer (CAD),,,RUR,between3And6,От 3 до 6 лет,Python,Томск,2025-10-01 12:31:03+03:00,https://hh.ru/vacancy/126008885
+125005296,Python-разработчик,90000.0,120000.0,RUR,between1And3,От 1 года до 3 лет,"Python, SQL",Уфа,2025-09-08 11:46:27+03:00,https://hh.ru/vacancy/125005296
+125968345,Python разработчик (Middle/Middle+),59006.0,118013.0,RUR,between1And3,От 1 года до 3 лет,"API, Django, Python, REST",Астана,2025-09-30 14:13:24+03:00,https://hh.ru/vacancy/125968345
+125528284,Backend/Python Developer (Middle),100000.0,,RUR,between1And3,От 1 года до 3 лет,"API, Flask, MongoDB, MySQL, NumPy, Pandas, Python, REST, SQL, TensorFlow",Ярославль,2025-09-19 13:00:49+03:00,https://hh.ru/vacancy/125528284
+125066483,Junior Python Developer,,,RUR,noExperience,Нет опыта,Python,Минск,2025-09-08 17:47:51+03:00,https://hh.ru/vacancy/125066483
+125822598,Middle / Senior Python developer (Django),,,RUR,between3And6,От 3 до 6 лет,"API, Airflow, Django, Pandas, Python, REST",Москва,2025-09-26 08:03:02+03:00,https://hh.ru/vacancy/125822598
+125265063,Junior\Middle Backend Python разработчик (FastAPI),50000.0,70000.0,RUR,between1And3,От 1 года до 3 лет,"API, FastAPI, Python, REST",Ульяновск,2025-09-12 11:14:53+03:00,https://hh.ru/vacancy/125265063
+125940545,Python-разработчик,130000.0,250000.0,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Екатеринбург,2025-09-30 09:39:59+03:00,https://hh.ru/vacancy/125940545
+125702444,Python-разработчик,50000.0,100000.0,RUR,between1And3,От 1 года до 3 лет,"Django, Python",Новосибирск,2025-09-24 12:58:30+03:00,https://hh.ru/vacancy/125702444
+124156636,Trainee Python Developer,,,RUR,noExperience,Нет опыта,"Django, FastAPI, Flask, Python",Брест,2025-09-17 10:34:12+03:00,https://hh.ru/vacancy/124156636
+124648751,Trainee/Python Developer,,,RUR,noExperience,Нет опыта,"Django, FastAPI, Flask, Python",Витебск,2025-09-28 17:17:17+03:00,https://hh.ru/vacancy/124648751
+125177885,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Санкт-Петербург,2025-10-01 19:35:33+03:00,https://hh.ru/vacancy/125177885
+111235934,Senior Python Developer in Test / Инженер-программист (KORNFELD),,,RUR,between3And6,От 3 до 6 лет,"Python, asyncio, pytest",Санкт-Петербург,2025-09-04 18:26:49+03:00,https://hh.ru/vacancy/111235934
+125179326,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Армения,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179326
+125248177,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Красноярск,2025-09-11 18:56:31+03:00,https://hh.ru/vacancy/125248177
+125233879,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,between1And3,От 1 года до 3 лет,API,Казань,2025-09-11 15:30:21+03:00,https://hh.ru/vacancy/125233879
+125248469,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Кемерово,2025-09-11 19:15:24+03:00,https://hh.ru/vacancy/125248469
+125248363,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Ростов-на-Дону,2025-09-11 19:05:47+03:00,https://hh.ru/vacancy/125248363
+117582493,Python developer / Разработчик Python (KORNFELD),,,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-09-19 19:55:01+03:00,https://hh.ru/vacancy/117582493
+125248447,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Саратов,2025-09-11 19:14:31+03:00,https://hh.ru/vacancy/125248447
+125178027,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Новосибирск,2025-09-10 19:47:42+03:00,https://hh.ru/vacancy/125178027
+125248386,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Пермь,2025-09-11 19:08:04+03:00,https://hh.ru/vacancy/125248386
+124054145,Разработчик Python в LLM Platform,,,RUR,between3And6,От 3 до 6 лет,"Docker, FastAPI, Kubernetes, PostgreSQL, Python",Сочи,2025-09-29 10:12:48+03:00,https://hh.ru/vacancy/124054145
+125248442,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Барнаул,2025-09-11 19:13:44+03:00,https://hh.ru/vacancy/125248442
+125248397,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Воронеж,2025-09-11 19:09:02+03:00,https://hh.ru/vacancy/125248397
+125179331,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Баку,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179331
+124050164,Разработчик Python в LLM Platform,,,RUR,between3And6,От 3 до 6 лет,"Docker, FastAPI, Kubernetes, PostgreSQL, Python",Таганрог,2025-09-08 09:53:53+03:00,https://hh.ru/vacancy/124050164
+125248475,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Тольятти,2025-09-11 19:16:06+03:00,https://hh.ru/vacancy/125248475
+113705714,Senior Python-developer,270000.0,,RUR,moreThan6,Более 6 лет,"Python, SQL",Санкт-Петербург,2025-09-12 10:18:58+03:00,https://hh.ru/vacancy/113705714
+125236120,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Нижний Новгород,2025-09-11 16:01:46+03:00,https://hh.ru/vacancy/125236120
+125248402,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Волгоград,2025-09-11 19:10:02+03:00,https://hh.ru/vacancy/125248402
+125248480,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Белгород,2025-09-11 19:16:53+03:00,https://hh.ru/vacancy/125248480
+125248436,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Ижевск,2025-09-11 19:12:59+03:00,https://hh.ru/vacancy/125248436
+124053575,Разработчик Python в LLM Platform,,,RUR,between3And6,От 3 до 6 лет,"Docker, FastAPI, Kubernetes, PostgreSQL, Python",Краснодар,2025-09-29 10:12:45+03:00,https://hh.ru/vacancy/124053575
+124835328,Data analyst/Аналитик-разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Санкт-Петербург,2025-09-03 16:50:30+03:00,https://hh.ru/vacancy/124835328
+125248424,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Омск,2025-09-11 19:11:23+03:00,https://hh.ru/vacancy/125248424
+125583447,Разработчик на Go и на Python в команду ядра биллинга,,,RUR,between3And6,От 3 до 6 лет,"PostgreSQL, SQL",Москва,2025-09-29 18:40:50+03:00,https://hh.ru/vacancy/125583447
+125179327,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Турция,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179327
+125308530,"Senior Backend Engineer (Python, AI, EdTech) / Старший Разработчик Бэкенда (Python, ИИ, Образование)",486051.0,,RUR,moreThan6,Более 6 лет,Python,Минск,2025-10-03 08:43:42+03:00,https://hh.ru/vacancy/125308530
+124995602,Senior Backend developer - Python / Бэкенд Разработчик,405042.0,,RUR,moreThan6,Более 6 лет,"AWS, Python",Сербия,2025-10-02 09:55:00+03:00,https://hh.ru/vacancy/124995602
+124964193,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,"PostgreSQL, Python",Санкт-Петербург,2025-09-05 22:21:25+03:00,https://hh.ru/vacancy/124964193
+124995601,Senior Backend developer - Python / Бэкенд Разработчик,405042.0,,RUR,moreThan6,Более 6 лет,"AWS, Python",Минск,2025-10-02 09:55:00+03:00,https://hh.ru/vacancy/124995601
+125439719,HW-разработчик Python (аппаратные испытания),,,RUR,between3And6,От 3 до 6 лет,"Git, Linux, Python, pytest",Москва,2025-09-17 13:56:30+03:00,https://hh.ru/vacancy/125439719
+125221838,Python-разработчик LLM,300000.0,330000.0,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Flask",Москва,2025-09-30 10:36:31+03:00,https://hh.ru/vacancy/125221838
+125103824,Backend-разработчик Python (middle),,170000.0,RUR,between1And3,От 1 года до 3 лет,"API, AWS, Django, Python",Краснодар,2025-09-09 14:06:09+03:00,https://hh.ru/vacancy/125103824
+125408786,Стажер-разработчик на Python в области AI,18000.0,50000.0,RUR,between1And3,От 1 года до 3 лет,Python,Краснодар,2025-09-16 19:14:42+03:00,https://hh.ru/vacancy/125408786
+124964200,Python developer,,,RUR,between1And3,От 1 года до 3 лет,"Git, Linux, Python",Санкт-Петербург,2025-09-05 18:59:10+03:00,https://hh.ru/vacancy/124964200
+124975474,Backend разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,"API, Docker, Python, REST",Москва,2025-09-07 00:31:42+03:00,https://hh.ru/vacancy/124975474
+125975873,Middle Python Developer,,,RUR,between3And6,От 3 до 6 лет,"PostgreSQL, Python",Санкт-Петербург,2025-09-30 16:26:23+03:00,https://hh.ru/vacancy/125975873
+124435842,Python developer,,,RUR,between3And6,От 3 до 6 лет,"Playwright, Python, Selenium",Москва,2025-09-22 10:50:35+03:00,https://hh.ru/vacancy/124435842
+125866444,Middle Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"CI/CD, Django, FastAPI, Flask, Python, asyncio",Минск,2025-09-28 16:40:32+03:00,https://hh.ru/vacancy/125866444
+125329751,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-09-15 13:06:03+03:00,https://hh.ru/vacancy/125329751
+124899219,Python-разработчик,150000.0,200000.0,RUR,between1And3,От 1 года до 3 лет,"API, FastAPI, Python",Санкт-Петербург,2025-10-02 07:56:38+03:00,https://hh.ru/vacancy/124899219
+124943975,Python разработчик,40222.0,,RUR,between1And3,От 1 года до 3 лет,Python,Ташкент,2025-09-05 16:02:46+03:00,https://hh.ru/vacancy/124943975
+125458559,Разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-18 06:42:00+03:00,https://hh.ru/vacancy/125458559
+125453948,Middle Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"Django, FastAPI, Flask, Python, REST",Минск,2025-09-17 18:16:38+03:00,https://hh.ru/vacancy/125453948
+125390117,Junior Fullstack разработчик Django/Python,80000.0,,RUR,between1And3,От 1 года до 3 лет,"CSS, Django, HTML, Python",Новосибирск,2025-09-16 13:58:11+03:00,https://hh.ru/vacancy/125390117
+125401126,Middle+/Senior Backend разработчик (Python),180000.0,,RUR,between3And6,От 3 до 6 лет,"Django, Python, REST, SQL",Санкт-Петербург,2025-09-16 16:26:01+03:00,https://hh.ru/vacancy/125401126
+125537679,Python разработчик (Junior+/middle),180000.0,220000.0,RUR,between1And3,От 1 года до 3 лет,"API, Python",Москва,2025-09-19 15:40:09+03:00,https://hh.ru/vacancy/125537679
+125671486,Senior Python Developer,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-23 17:31:05+03:00,https://hh.ru/vacancy/125671486
+123972095,Junior Python developer (в офис),60000.0,,RUR,noExperience,Нет опыта,Python,Москва,2025-09-23 00:19:23+03:00,https://hh.ru/vacancy/123972095
+125009830,Разработчик Python,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-08 12:15:02+03:00,https://hh.ru/vacancy/125009830
+125179330,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Черногория,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179330
+125691349,Разработчик Python,,,RUR,between3And6,От 3 до 6 лет,,Санкт-Петербург,2025-09-24 10:23:48+03:00,https://hh.ru/vacancy/125691349
+80736556,Разработчик Python,30000.0,80000.0,RUR,noExperience,Нет опыта,"Git, PostgreSQL, Python, SQL",Ростов-на-Дону,2025-10-02 13:53:55+03:00,https://hh.ru/vacancy/80736556
+124875431,Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, Python",Уфа,2025-09-04 13:32:42+03:00,https://hh.ru/vacancy/124875431
+125367159,Python-разработчик (CV),140000.0,,RUR,between1And3,От 1 года до 3 лет,"PyTorch, Python, TensorFlow",Новокузнецк,2025-09-19 10:22:44+03:00,https://hh.ru/vacancy/125367159
+124841561,Senior Python Developer Backend,200000.0,300000.0,RUR,between1And3,От 1 года до 3 лет,"Flask, MongoDB, Python, SQL",Санкт-Петербург,2025-10-02 17:36:07+03:00,https://hh.ru/vacancy/124841561
+125043991,Python-разработчик (AI agents),,,RUR,between1And3,От 1 года до 3 лет,"API, Celery, Django, Python, REST",Москва,2025-09-08 15:37:26+03:00,https://hh.ru/vacancy/125043991
+125432660,Trainee/Python Developer,,,RUR,noExperience,Нет опыта,"Django, FastAPI, Flask, Python",Минск,2025-09-17 12:14:17+03:00,https://hh.ru/vacancy/125432660
+125846153,Python-разработчик,,130000.0,RUR,between1And3,От 1 года до 3 лет,"NumPy, Pandas, Python",Москва,2025-09-26 15:00:41+03:00,https://hh.ru/vacancy/125846153
+125495845,Backend разработчик Python,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI",Жуковский  (Московская область),2025-09-30 16:47:47+03:00,https://hh.ru/vacancy/125495845
+125374151,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Docker, Linux, MongoDB, PostgreSQL, Python, SQL, asyncio",Москва,2025-09-16 10:11:39+03:00,https://hh.ru/vacancy/125374151
+118847725,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Казань,2025-09-30 17:31:09+03:00,https://hh.ru/vacancy/118847725
+125152041,Python-разработчик (Middle+/Senior) в Fintech,,,RUR,between3And6,От 3 до 6 лет,"API, Python",Алматы,2025-09-10 13:03:38+03:00,https://hh.ru/vacancy/125152041
+126009389,Python Developer,,,RUR,between3And6,От 3 до 6 лет,Python,Тбилиси,2025-10-01 12:40:14+03:00,https://hh.ru/vacancy/126009389
+125475318,Python developer,,200000.0,RUR,between3And6,От 3 до 6 лет,"API, FastAPI, Python",Москва,2025-10-03 11:32:56+03:00,https://hh.ru/vacancy/125475318
+125352598,Python Developer (middle/senior),,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Москва,2025-09-15 18:33:43+03:00,https://hh.ru/vacancy/125352598
+125010047,Python Django developer,,81008.0,RUR,between1And3,От 1 года до 3 лет,"API, Django, Python, REST, React",Ташкент,2025-09-08 12:16:11+03:00,https://hh.ru/vacancy/125010047
+124084201,Python Developer Middle+/Senior,,,RUR,between3And6,От 3 до 6 лет,"Docker, Python",Санкт-Петербург,2025-10-02 18:19:35+03:00,https://hh.ru/vacancy/124084201
+125228919,Senior Python-разработчик,220000.0,270000.0,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-11 14:23:52+03:00,https://hh.ru/vacancy/125228919
+125464382,Python-разработчик для сервисов ML,130000.0,160000.0,RUR,between3And6,От 3 до 6 лет,"FastAPI, Flask, Python",Новосибирск,2025-09-18 08:57:44+03:00,https://hh.ru/vacancy/125464382
+125265638,ML-Python разработчик (NLP),,,RUR,between1And3,От 1 года до 3 лет,Python,Санкт-Петербург,2025-09-12 11:23:04+03:00,https://hh.ru/vacancy/125265638
+125788036,Python Developer (middle/middle+/senior),,,RUR,between1And3,От 1 года до 3 лет,"Celery, Django, Docker, PostgreSQL, REST, Redis",Минск,2025-09-25 15:48:20+03:00,https://hh.ru/vacancy/125788036
+123701555,Python Back-end Разработчик (веб-сервисы) / Python Back-end Developer (web services),,,RUR,between1And3,От 1 года до 3 лет,Python,Санкт-Петербург,2025-09-05 13:48:33+03:00,https://hh.ru/vacancy/123701555
+125511588,AQA инженер (Python)/Python разработчик в IT компанию,,,RUR,between1And3,От 1 года до 3 лет,"Linux, PostgreSQL, Python",Санкт-Петербург,2025-09-19 08:47:08+03:00,https://hh.ru/vacancy/125511588
+123882420,Trainee Python Developer,,,RUR,noExperience,Нет опыта,"Python, pytest",Минск,2025-09-10 10:14:56+03:00,https://hh.ru/vacancy/123882420
+124623565,Middle Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, PostgreSQL, Python",Казань,2025-09-28 10:07:05+03:00,https://hh.ru/vacancy/124623565
+124837359,Fullstack разработчик (JS/React/Golang/Python) | Middle-Senior,,370000.0,RUR,between1And3,От 1 года до 3 лет,"API, JavaScript, Python, React",Москва,2025-09-30 17:25:31+03:00,https://hh.ru/vacancy/124837359
+124881569,Разработчик Python,,,RUR,between1And3,От 1 года до 3 лет,"Bash, Python",Минск,2025-09-04 15:01:05+03:00,https://hh.ru/vacancy/124881569
+126073761,Senior Python Developer в команду сетевой автоматизации,,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-10-02 16:59:05+03:00,https://hh.ru/vacancy/126073761
+124964570,Python Developer (ЭДО),,,RUR,between3And6,От 3 до 6 лет,"CI/CD, Docker, FastAPI, MongoDB, Python, React, Redis, pytest",Санкт-Петербург,2025-09-05 19:36:11+03:00,https://hh.ru/vacancy/124964570
+124886105,Python разработчик,,180000.0,RUR,between1And3,От 1 года до 3 лет,"API, FastAPI, Flask, Python, REST",Москва,2025-10-01 16:08:37+03:00,https://hh.ru/vacancy/124886105
+125910604,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Москва,2025-10-02 16:22:53+03:00,https://hh.ru/vacancy/125910604
+124930797,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python, asyncio",Москва,2025-09-05 12:31:32+03:00,https://hh.ru/vacancy/124930797
+124889552,Middle Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"Django, Python",Санкт-Петербург,2025-09-08 18:31:33+03:00,https://hh.ru/vacancy/124889552
+125601566,Python-разработчик\Teamlead,,,RUR,between3And6,От 3 до 6 лет,"Azure, Python, SQL",Москва,2025-09-22 12:24:57+03:00,https://hh.ru/vacancy/125601566
+125904491,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,Python,Минск,2025-09-29 14:59:08+03:00,https://hh.ru/vacancy/125904491
+125043267,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Flask, Pandas, Python",Москва,2025-09-08 15:32:58+03:00,https://hh.ru/vacancy/125043267
+122690606,Разработчик Python (middle+),120000.0,150000.0,RUR,between1And3,От 1 года до 3 лет,"Django, Python",Санкт-Петербург,2025-09-26 09:05:48+03:00,https://hh.ru/vacancy/122690606
+124533424,Python разработчик в офис г. Брянск,,40000.0,RUR,between1And3,От 1 года до 3 лет,"Django, Flask, MySQL, PostgreSQL, Python",Брянск,2025-09-22 15:16:38+03:00,https://hh.ru/vacancy/124533424
+125209868,"Python-разработчик (ML-интеграция, высоконагруженные сервисы)",,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Москва,2025-09-11 11:49:24+03:00,https://hh.ru/vacancy/125209868
+122933186,Python-разработчик,,,RUR,noExperience,Нет опыта,Python,Москва,2025-09-15 11:55:13+03:00,https://hh.ru/vacancy/122933186
+125862090,Python-разработчик / Data Engineer,59006.0,118013.0,RUR,between3And6,От 3 до 6 лет,Python,Алматы,2025-09-28 01:07:35+03:00,https://hh.ru/vacancy/125862090
+124463631,Middle+ / Senior Backend Developer (Python + SQL),250000.0,350000.0,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python, SQL, asyncio",Москва,2025-09-25 02:29:53+03:00,https://hh.ru/vacancy/124463631
+126009223,Python Developer,,,RUR,between3And6,От 3 до 6 лет,Python,Астана,2025-10-01 12:37:29+03:00,https://hh.ru/vacancy/126009223
+124891289,Backend-разработчик (golang/python),300000.0,,RUR,between3And6,От 3 до 6 лет,"Python, Rust",Москва,2025-10-01 17:50:38+03:00,https://hh.ru/vacancy/124891289
+124170397,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Томск,2025-09-16 14:16:12+03:00,https://hh.ru/vacancy/124170397
+125572095,Разработчик Python / Fastapi,400.0,500.0,RUR,between1And3,От 1 года до 3 лет,"API, FastAPI, Python",Санкт-Петербург,2025-09-22 03:37:06+03:00,https://hh.ru/vacancy/125572095
+125706330,Ведущий Python разработчик,200000.0,350000.0,RUR,moreThan6,Более 6 лет,Python,Краснодар,2025-10-03 13:51:14+03:00,https://hh.ru/vacancy/125706330
+125622144,Senior python-разработчик внешних сервисов,,,RUR,between3And6,От 3 до 6 лет,"PostgreSQL, Python",Москва,2025-09-22 17:30:46+03:00,https://hh.ru/vacancy/125622144
+125374994,Python-разработчик,,575000.0,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Flask, Kubernetes, Python, asyncio",Москва,2025-10-01 10:23:01+03:00,https://hh.ru/vacancy/125374994
+125445964,Fullstack разработчик (Python/Go + React),150000.0,250000.0,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Git, Go, Python, React",Москва,2025-09-17 15:31:42+03:00,https://hh.ru/vacancy/125445964
+124813521,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,Python,Нижний Новгород,2025-10-01 09:07:19+03:00,https://hh.ru/vacancy/124813521
+125670910,Python/Php Backend Developer,,100000.0,RUR,between1And3,От 1 года до 3 лет,"API, Python",Санкт-Петербург,2025-09-23 17:19:17+03:00,https://hh.ru/vacancy/125670910
+125641842,Python Developer,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Flask, Python",Алматы,2025-10-02 09:59:19+03:00,https://hh.ru/vacancy/125641842
+124833291,Python-разработчик,100000.0,,RUR,between1And3,От 1 года до 3 лет,Python,Санкт-Петербург,2025-09-03 16:18:13+03:00,https://hh.ru/vacancy/124833291
+125706462,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"API, Python",Москва,2025-09-24 13:51:57+03:00,https://hh.ru/vacancy/125706462
+123911013,Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Flask, Python",Москва,2025-09-10 16:11:49+03:00,https://hh.ru/vacancy/123911013
+121288554,Программист Python,150000.0,200000.0,RUR,between1And3,От 1 года до 3 лет,"Git, Python",Ростов-на-Дону,2025-10-02 13:53:11+03:00,https://hh.ru/vacancy/121288554
+125642394,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Linux, SQL",Минск,2025-09-23 10:04:50+03:00,https://hh.ru/vacancy/125642394
+124408556,Разработчик Python,60000.0,80000.0,RUR,between1And3,От 1 года до 3 лет,"Django, Python",Новосибирск,2025-09-23 15:04:48+03:00,https://hh.ru/vacancy/124408556
+125244442,Разработчик на Python/Go в Финтех,,,RUR,between3And6,От 3 до 6 лет,"Java, PostgreSQL, Python, SQL",Москва,2025-09-18 12:47:31+03:00,https://hh.ru/vacancy/125244442
+124771812,Senior Python разработчик,150000.0,240000.0,RUR,moreThan6,Более 6 лет,Python,Санкт-Петербург,2025-10-02 13:48:03+03:00,https://hh.ru/vacancy/124771812
+122837098,Python Developer,,,RUR,between3And6,От 3 до 6 лет,"API, FastAPI, Python, SQL",Тбилиси,2025-09-22 14:38:55+03:00,https://hh.ru/vacancy/122837098
+125151489,BE Разработчик (Python Desktop Developer (PySide/Qt)),,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-10 12:58:00+03:00,https://hh.ru/vacancy/125151489
+124225648,"Старший Python-разработчик, ML платформа",,,RUR,between3And6,От 3 до 6 лет,"Python, asyncio",Москва,2025-09-18 12:56:39+03:00,https://hh.ru/vacancy/124225648
+124841821,Full stack Python разработчик,80000.0,,RUR,between1And3,От 1 года до 3 лет,"MySQL, Python, REST",Санкт-Петербург,2025-09-03 19:35:51+03:00,https://hh.ru/vacancy/124841821
+124531862,Python разработчик,100000.0,250000.0,RUR,between1And3,От 1 года до 3 лет,"Python, SQL",Новосибирск,2025-09-23 10:45:04+03:00,https://hh.ru/vacancy/124531862
+125400180,Python-разработчик,,90000.0,RUR,between1And3,От 1 года до 3 лет,"MySQL, Python, Selenium",Москва,2025-10-01 16:13:23+03:00,https://hh.ru/vacancy/125400180
+124829027,Fullstack разработчик Python,200000.0,,RUR,between3And6,От 3 до 6 лет,"Flask, JavaScript, Python, SQL",Санкт-Петербург,2025-09-03 15:13:31+03:00,https://hh.ru/vacancy/124829027
+124123396,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Нижний Новгород,2025-09-29 11:27:35+03:00,https://hh.ru/vacancy/124123396
+125149893,Senior Python Developer/Разработка и поддержка ПО в сфере промышленной робототехники и автоматизации,,,RUR,between3And6,От 3 до 6 лет,"Git, Python",Москва,2025-09-10 12:38:21+03:00,https://hh.ru/vacancy/125149893
+125417848,Backend Developer (Python/FastAPI),,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Ташкент,2025-10-02 09:02:20+03:00,https://hh.ru/vacancy/125417848
+125207388,Backend разработчик (Python FastAPI),,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Kafka, Python, pytest",Москва,2025-10-02 11:16:33+03:00,https://hh.ru/vacancy/125207388
+125439538,Senior Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, JavaScript, MySQL, Node.js, Python, Redis",Кипр,2025-09-17 13:53:00+03:00,https://hh.ru/vacancy/125439538
+125845533,Python Developer Senior,,,RUR,moreThan6,Более 6 лет,"API, Python",Москва,2025-10-02 14:47:25+03:00,https://hh.ru/vacancy/125845533
+125973809,Senior Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Python, asyncio",Минск,2025-09-30 15:55:13+03:00,https://hh.ru/vacancy/125973809
+125637413,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Go, Linux, PostgreSQL, Python, SQL",Москва,2025-09-23 09:03:00+03:00,https://hh.ru/vacancy/125637413
+121350226,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Краснодар,2025-09-29 10:12:23+03:00,https://hh.ru/vacancy/121350226
+125855791,Python Developer в AI-агент,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python, React",Москва,2025-09-26 19:42:28+03:00,https://hh.ru/vacancy/125855791
+122390241,Middle Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, Python",Владимир,2025-09-24 13:39:31+03:00,https://hh.ru/vacancy/122390241
+125248374,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Уфа,2025-09-11 19:07:00+03:00,https://hh.ru/vacancy/125248374
+117582494,Python developer / Разработчик Python (KORNFELD),,,RUR,between3And6,От 3 до 6 лет,Python,Нижний Новгород,2025-09-19 19:55:02+03:00,https://hh.ru/vacancy/117582494
+125899724,Python | Go Developer,,,RUR,moreThan6,Более 6 лет,Python,Санкт-Петербург,2025-10-02 13:51:39+03:00,https://hh.ru/vacancy/125899724
+117251381,Senior Python-developer,270000.0,,RUR,moreThan6,Более 6 лет,"Python, SQL",Самара,2025-09-12 10:57:00+03:00,https://hh.ru/vacancy/117251381
+119419879,Backend-разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,"API, Python, REST, asyncio",Москва,2025-09-07 10:59:00+03:00,https://hh.ru/vacancy/119419879
+123615151,Senior Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Python",Москва,2025-09-29 13:34:38+03:00,https://hh.ru/vacancy/123615151
+125276337,Python developer (Senior/Lead),280000.0,330000.0,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-10-03 14:19:33+03:00,https://hh.ru/vacancy/125276337
+124046929,Разработчик Python в LLM Platform,,,RUR,between3And6,От 3 до 6 лет,"Docker, FastAPI, Kubernetes, PostgreSQL, Python",Ростов-на-Дону,2025-09-29 10:12:41+03:00,https://hh.ru/vacancy/124046929
+125121488,Middle веб-разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,"HTML, JavaScript, React, TypeScript",Санкт-Петербург,2025-09-30 18:18:52+03:00,https://hh.ru/vacancy/125121488
+124889104,Старший Python разработчик,,,RUR,moreThan6,Более 6 лет,"Python, asyncio",Москва,2025-09-04 17:02:45+03:00,https://hh.ru/vacancy/124889104
+125756050,"Python Developer/Fullstack (FastApi, Angular)",,,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-09-25 11:22:27+03:00,https://hh.ru/vacancy/125756050
+125898169,Senior SDET engineer (Python) / Старший инженер-программист,,,RUR,moreThan6,Более 6 лет,"CI/CD, Python, pytest",Санкт-Петербург,2025-09-29 13:29:22+03:00,https://hh.ru/vacancy/125898169
+111959689,"Разработчик Python (Django, DRF)",,,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-09-30 10:46:29+03:00,https://hh.ru/vacancy/111959689
+125701243,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-24 12:42:45+03:00,https://hh.ru/vacancy/125701243
+125443265,Senior Python developer,324034.0,486051.0,RUR,moreThan6,Более 6 лет,"API, Django, FastAPI, Flask, Git, JavaScript, Pandas, Python, REST",Алматы,2025-10-02 14:51:24+03:00,https://hh.ru/vacancy/125443265
+125241434,Python-разработчик (знание ML) / ML инженер,,,RUR,between3And6,От 3 до 6 лет,"Docker, FastAPI, Git, Python, SQL",Москва,2025-09-15 18:23:57+03:00,https://hh.ru/vacancy/125241434
+121889881,Lead Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Flask, Python, SQL",Минск,2025-09-18 14:26:47+03:00,https://hh.ru/vacancy/121889881
+125247392,Python Developer / Инженер-программист (TATLIN.UNIFIED),,,RUR,between3And6,От 3 до 6 лет,"Linux, Python",Санкт-Петербург,2025-09-11 18:10:48+03:00,https://hh.ru/vacancy/125247392
+125175359,Python Developer (Cybersecurity Core Team),,,RUR,between3And6,От 3 до 6 лет,"Bash, Docker, Linux",Москва,2025-10-01 19:04:47+03:00,https://hh.ru/vacancy/125175359
+125111619,AI/AI-agent developer (Python),,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Flask, Pandas, Python",Москва,2025-09-09 15:51:15+03:00,https://hh.ru/vacancy/125111619
+116347834,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Flask, Git, Python",Москва,2025-09-10 09:25:21+03:00,https://hh.ru/vacancy/116347834
+121696075,Старший Python-разработчик,,230000.0,RUR,between3And6,От 3 до 6 лет,Python,Краснодар,2025-09-17 12:49:00+03:00,https://hh.ru/vacancy/121696075
+124874488,"Python-разработчик (middle+), страховые продукты",,,RUR,moreThan6,Более 6 лет,"Python, Redis, SQL",Москва,2025-09-26 15:22:28+03:00,https://hh.ru/vacancy/124874488
+125289560,Middle Python-разработчик (AI-агент),,,RUR,between3And6,От 3 до 6 лет,"CI/CD, Docker, Python",Москва,2025-09-30 21:17:54+03:00,https://hh.ru/vacancy/125289560
+125431568,AI Developer (Python),,,RUR,between3And6,От 3 до 6 лет,Python,Тбилиси,2025-09-17 11:57:35+03:00,https://hh.ru/vacancy/125431568
+124835180,Data analyst/Аналитик-разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Москва,2025-09-03 16:47:57+03:00,https://hh.ru/vacancy/124835180
+125583446,Разработчик на Go и на Python в команду ядра биллинга,,,RUR,between3And6,От 3 до 6 лет,"PostgreSQL, SQL",Санкт-Петербург,2025-09-29 18:40:54+03:00,https://hh.ru/vacancy/125583446
+125468654,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Git, PostgreSQL, Python",Москва,2025-10-03 10:00:48+03:00,https://hh.ru/vacancy/125468654
+124403580,Разработчик на Go и на Python в команду ядра биллинга,,,RUR,between3And6,От 3 до 6 лет,"PostgreSQL, SQL",Москва,2025-09-16 08:53:06+03:00,https://hh.ru/vacancy/124403580
+116162916,Python developer / Разработчик Python (KORNFELD),,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-20 15:23:29+03:00,https://hh.ru/vacancy/116162916
+125475473,Ведущий разработчик Python,,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-09-18 11:35:16+03:00,https://hh.ru/vacancy/125475473
+123613700,Разработчик osint сервисов (Python),,,RUR,between3And6,От 3 до 6 лет,"API, Python",Москва,2025-10-03 10:48:16+03:00,https://hh.ru/vacancy/123613700
+125346160,Разработчик Python PyQt/PySide (Astra Migration Tool),,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-15 17:21:38+03:00,https://hh.ru/vacancy/125346160
+123928702,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-04 16:00:24+03:00,https://hh.ru/vacancy/123928702
+125147896,Системный разработчик (Python + C/С++),,,RUR,between3And6,От 3 до 6 лет,"Bash, Linux, Python",Москва,2025-09-10 12:09:35+03:00,https://hh.ru/vacancy/125147896
+123026105,AI/AI-agent developer (Python),,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-19 09:37:40+03:00,https://hh.ru/vacancy/123026105
+125151481,Python Backend Developer,,,RUR,moreThan6,Более 6 лет,"FastAPI, Python",Батуми,2025-09-10 12:57:48+03:00,https://hh.ru/vacancy/125151481
+125899071,Senior Python | Go Developer,,,RUR,moreThan6,Более 6 лет,Python,Санкт-Петербург,2025-10-02 13:43:20+03:00,https://hh.ru/vacancy/125899071
+125491560,Ведущий Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Python",Краснодар,2025-09-18 15:44:21+03:00,https://hh.ru/vacancy/125491560
+125279517,Junior разработчик Fullstack Python Backend + Flutter,,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Python",Москва,2025-09-30 15:15:22+03:00,https://hh.ru/vacancy/125279517
+125697403,FullStack Developer (Python + JavaScript),,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Flask, JavaScript, Python, React, TypeScript",Минск,2025-09-24 11:46:32+03:00,https://hh.ru/vacancy/125697403
+117915138,Senior Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"API, Django, Docker, FastAPI, Linux, PostgreSQL, Python, SQL",Москва,2025-10-03 11:04:12+03:00,https://hh.ru/vacancy/117915138
+123761619,"Старший разработчик Python/Pyspark, Платформа АБ-тестов, Стенды метрик",,,RUR,between3And6,От 3 до 6 лет,"Python, Spark",Москва,2025-09-06 17:20:53+03:00,https://hh.ru/vacancy/123761619
+123877753,Backend-Developer Python (middle),,,RUR,between1And3,От 1 года до 3 лет,"Python, REST",Москва,2025-09-10 09:25:33+03:00,https://hh.ru/vacancy/123877753
+124052357,Старший разработчик на Python в команду разработки LLM-проектов для B2B,,,RUR,moreThan6,Более 6 лет,"API, Python",Москва,2025-09-08 15:20:41+03:00,https://hh.ru/vacancy/124052357
+125247598,Python разработчик в центр экспертизы LLM,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-10-02 18:21:46+03:00,https://hh.ru/vacancy/125247598
+121666782,C++/Python Developer (Санкт-Петербург),,,RUR,between1And3,От 1 года до 3 лет,Python,Санкт-Петербург,2025-10-02 11:49:02+03:00,https://hh.ru/vacancy/121666782
+125994314,Старший разработчик (Python/SQL/JavaScript),,,RUR,between3And6,От 3 до 6 лет,"JavaScript, PostgreSQL, Python, SQL",Санкт-Петербург,2025-10-01 09:07:17+03:00,https://hh.ru/vacancy/125994314
+123440677,Control Plane разработчик (Python),,,RUR,between3And6,От 3 до 6 лет,"API, Linux, Python, REST",Москва,2025-10-01 17:47:32+03:00,https://hh.ru/vacancy/123440677
+124138278,Senior Python/Golang разработчик в Финтех (Enterprise),,,RUR,between3And6,От 3 до 6 лет,"PostgreSQL, Python",Москва,2025-09-26 14:53:46+03:00,https://hh.ru/vacancy/124138278
+124964192,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,"PostgreSQL, Python",Москва,2025-09-05 22:22:19+03:00,https://hh.ru/vacancy/124964192
+124995600,Senior Backend developer - Python / Бэкенд Разработчик,405042.0,,RUR,moreThan6,Более 6 лет,"AWS, Python",Москва,2025-10-02 09:55:00+03:00,https://hh.ru/vacancy/124995600
+125097493,Python-разработчик (senior),,,RUR,between3And6,От 3 до 6 лет,"API, CI/CD, Docker, FastAPI, Kubernetes, Python",Москва,2025-09-09 12:42:13+03:00,https://hh.ru/vacancy/125097493
+123309351,Senior Python backend developer,,,RUR,between3And6,От 3 до 6 лет,,Москва,2025-09-22 17:11:06+03:00,https://hh.ru/vacancy/123309351
+125097592,Python Developer,,,RUR,between3And6,От 3 до 6 лет,"API, Django, Python",Минск,2025-10-03 12:43:43+03:00,https://hh.ru/vacancy/125097592
+125308529,"Senior Backend Engineer (Python, AI, EdTech)/Старший Разработчик Бэкенда (Python, ИИ, Образование)",486051.0,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-10-03 08:43:42+03:00,https://hh.ru/vacancy/125308529
+125596253,Старший разработчик Python / Senior Python Developer (XData),,,RUR,between3And6,От 3 до 6 лет,"PostgreSQL, pytest",Москва,2025-09-22 11:20:23+03:00,https://hh.ru/vacancy/125596253
+122619851,Старший Python + Go разработчик,,,RUR,between3And6,От 3 до 6 лет,"Linux, Python",Москва,2025-09-09 14:27:56+03:00,https://hh.ru/vacancy/122619851
+124026691,Senior backend разработчик (Python),,,RUR,moreThan6,Более 6 лет,,Москва,2025-09-23 15:49:22+03:00,https://hh.ru/vacancy/124026691
+124702032,AI/AI-agent developer (Python) - senior,,170000.0,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-11 14:01:28+03:00,https://hh.ru/vacancy/124702032
+125122349,"Tech Lead / Ведущий разработчик (Python, Fintech/Blockchain)",400000.0,,RUR,moreThan6,Более 6 лет,"FastAPI, PostgreSQL, Python",Москва,2025-09-30 19:18:51+03:00,https://hh.ru/vacancy/125122349
+122592646,"Python разработчик (Senior), Machine Learning",,,RUR,moreThan6,Более 6 лет,"Django, FastAPI, Flask, Python",Москва,2025-09-29 11:54:57+03:00,https://hh.ru/vacancy/122592646
+124026165,Разработчик Python в LLM Platform,,,RUR,between3And6,От 3 до 6 лет,"Docker, FastAPI, Kubernetes, PostgreSQL, Python",Санкт-Петербург,2025-10-02 11:27:35+03:00,https://hh.ru/vacancy/124026165
+125114176,Trainee Python Developer (со знанием испанского/итальянского языка),,,RUR,noExperience,Нет опыта,"Django, FastAPI, Flask, Python",Минск,2025-09-09 16:16:43+03:00,https://hh.ru/vacancy/125114176
+119787452,Senior Python developer (Санкт-Петербург),,,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-09-30 18:10:54+03:00,https://hh.ru/vacancy/119787452
+124296088,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,"PostgreSQL, Python",Санкт-Петербург,2025-09-15 12:42:15+03:00,https://hh.ru/vacancy/124296088
+125539295,Full-Stack Python + Vue.js разработчик,200000.0,280000.0,RUR,between3And6,От 3 до 6 лет,"JavaScript, Python",Москва,2025-09-24 18:36:45+03:00,https://hh.ru/vacancy/125539295
+123705620,"Senior Backend Python Developer (LLM, AI)",,524376.0,RUR,moreThan6,Более 6 лет,Python,Тбилиси,2025-10-02 14:55:18+03:00,https://hh.ru/vacancy/123705620
+122225099,Python-разработчик AI Middle+/Senior,,,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-09-30 13:06:48+03:00,https://hh.ru/vacancy/122225099
+125516901,Gameplay Developer (Python/С++),,,RUR,between3And6,От 3 до 6 лет,Python,Минск,2025-10-01 10:05:40+03:00,https://hh.ru/vacancy/125516901
+125753811,Full Stack Developer (Python/TypeScript/Angular) with German,,,RUR,between3And6,От 3 до 6 лет,"Angular, Django, Python, TypeScript",Алматы,2025-09-25 10:52:35+03:00,https://hh.ru/vacancy/125753811
+124880155,Head of Python Development,,,RUR,moreThan6,Более 6 лет,"PostgreSQL, Python",Москва,2025-10-03 12:38:15+03:00,https://hh.ru/vacancy/124880155
+123997673,"Software Developer (Python, React/Typescript)",,,RUR,between1And3,От 1 года до 3 лет,"Celery, Django, Python, REST, React, Redis, TypeScript",Минск,2025-10-03 10:23:43+03:00,https://hh.ru/vacancy/123997673
+120832607,"Старший Python-разработчик (Django, Wagtail) в офис",,,RUR,between3And6,От 3 до 6 лет,"API, Python",Краснодар,2025-09-09 14:21:27+03:00,https://hh.ru/vacancy/120832607
+124558899,HW-разработчик Python (аппаратные испытания),,,RUR,between3And6,От 3 до 6 лет,"Git, Linux, Python, pytest",Нижний Новгород,2025-09-17 13:55:36+03:00,https://hh.ru/vacancy/124558899
+122626680,Server Developer (Python/C++),,,RUR,between3And6,От 3 до 6 лет,Python,Минск,2025-10-02 13:21:27+03:00,https://hh.ru/vacancy/122626680
+124918814,Python-разработчик / Senior,,,RUR,between3And6,От 3 до 6 лет,"Python, asyncio",Москва,2025-09-05 10:40:23+03:00,https://hh.ru/vacancy/124918814
+124507743,Разработчик-эксперт python\Архитектор (IaaS/PaaS),,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-10-02 18:01:44+03:00,https://hh.ru/vacancy/124507743
+125696090,Senior Python разработчик в команду MLOps платформы,,,RUR,moreThan6,Более 6 лет,asyncio,Москва,2025-09-24 11:28:30+03:00,https://hh.ru/vacancy/125696090
+124167353,Server Developer (Python\C++),,,RUR,between3And6,От 3 до 6 лет,"Kafka, RabbitMQ",Минск,2025-10-01 10:30:33+03:00,https://hh.ru/vacancy/124167353
+125338950,Junior Python разработчик,90000.0,,RUR,between1And3,От 1 года до 3 лет,"API, Django, FastAPI, Flask, Python, REST, SQL",Омск,2025-09-15 15:11:18+03:00,https://hh.ru/vacancy/125338950
+122933189,Python-разработчик,,,RUR,noExperience,Нет опыта,Python,Нижний Новгород,2025-09-15 11:55:14+03:00,https://hh.ru/vacancy/122933189
+122933188,Python-разработчик,,,RUR,noExperience,Нет опыта,Python,Воронеж,2025-09-15 11:55:14+03:00,https://hh.ru/vacancy/122933188
+122933187,Python-разработчик,,,RUR,noExperience,Нет опыта,Python,Санкт-Петербург,2025-09-15 11:55:14+03:00,https://hh.ru/vacancy/122933187
+125179325,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Тбилиси,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179325
+125179328,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Израиль,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179328
+119816398,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Сочи,2025-09-29 10:12:20+03:00,https://hh.ru/vacancy/119816398
+122493254,Senior Python разработчик,150000.0,240000.0,RUR,moreThan6,Более 6 лет,Python,Москва,2025-09-05 17:27:58+03:00,https://hh.ru/vacancy/122493254
+125233827,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Екатеринбург,2025-09-11 15:29:15+03:00,https://hh.ru/vacancy/125233827
+125179329,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Сербия,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179329
+105758081,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Таганрог,2025-09-09 19:03:49+03:00,https://hh.ru/vacancy/105758081
+125435329,Python разработчик в офис,,,RUR,between3And6,От 3 до 6 лет,Python,Новосибирск,2025-09-17 12:48:04+03:00,https://hh.ru/vacancy/125435329
+105758050,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Ростов-на-Дону,2025-09-08 09:53:54+03:00,https://hh.ru/vacancy/105758050
+125179332,Jr. Python Developer,,,RUR,between1And3,От 1 года до 3 лет,"JavaScript, Node.js, Python",Литва,2025-09-11 00:05:09+03:00,https://hh.ru/vacancy/125179332
+124648750,Trainee/Python Developer,,,RUR,noExperience,Нет опыта,"Django, FastAPI, Flask, Python",Гомель,2025-09-28 17:17:17+03:00,https://hh.ru/vacancy/124648750
+125167074,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,Python,Санкт-Петербург,2025-09-26 11:53:23+03:00,https://hh.ru/vacancy/125167074
+125248031,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Самара,2025-09-11 18:55:18+03:00,https://hh.ru/vacancy/125248031
+125248431,Fullstack Python разработчик (Python + AI + Pet Projects),,,RUR,noExperience,Нет опыта,API,Тюмень,2025-09-11 19:12:16+03:00,https://hh.ru/vacancy/125248431
+124156897,Trainee Python Developer,,,RUR,noExperience,Нет опыта,"Django, FastAPI, Flask, Python",Минск,2025-09-17 10:36:14+03:00,https://hh.ru/vacancy/124156897
+124813520,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-08 08:39:15+03:00,https://hh.ru/vacancy/124813520
+124813522,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,Python,Екатеринбург,2025-09-17 09:14:27+03:00,https://hh.ru/vacancy/124813522
+125122318,Backend-разработчик (Python),,,RUR,between1And3,От 1 года до 3 лет,"CSS, Django, HTML, JavaScript, PostgreSQL, Python",Москва,2025-10-03 09:56:34+03:00,https://hh.ru/vacancy/125122318
+123557242,Python-разработчик (middle+),,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, SQL",Воронеж,2025-09-26 13:48:58+03:00,https://hh.ru/vacancy/123557242
+125605807,Python Backend-разработчик (middle/senior),,177019.0,RUR,between3And6,От 3 до 6 лет,"API, Celery, Django, FastAPI, PostgreSQL, Python, REST, SQL",Алматы,2025-09-22 13:21:43+03:00,https://hh.ru/vacancy/125605807
+122389955,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"Django, Docker, Flask, Python",Владимир,2025-09-24 13:39:31+03:00,https://hh.ru/vacancy/122389955
+125346079,Python Tool Developer,,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-30 17:19:43+03:00,https://hh.ru/vacancy/125346079
+126066561,Senior Python Developer (AI/LLM/Camunda Stream),,,RUR,moreThan6,Более 6 лет,"Django, PostgreSQL, Python, SQL",Москва,2025-10-02 13:59:52+03:00,https://hh.ru/vacancy/126066561
+124646397,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,"Django, Python",Москва,2025-09-18 15:47:43+03:00,https://hh.ru/vacancy/124646397
+118847757,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Иннополис,2025-09-30 17:31:13+03:00,https://hh.ru/vacancy/118847757
+123396276,"Старший Python разработчик, Эффективность рекомендаций",,,RUR,between3And6,От 3 до 6 лет,"API, Python, SQL, Spark",Москва,2025-09-27 19:49:58+03:00,https://hh.ru/vacancy/123396276
+124998837,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Python, asyncio",Москва,2025-09-08 10:31:33+03:00,https://hh.ru/vacancy/124998837
+125167073,Senior Python Developer,,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-09-26 11:53:23+03:00,https://hh.ru/vacancy/125167073
+125879077,AI/ML Python/GO developer (backend),,,RUR,between3And6,От 3 до 6 лет,"Go, Python",Москва,2025-09-29 09:28:00+03:00,https://hh.ru/vacancy/125879077
+125662057,Python Senior Developer,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Python",Минск,2025-09-23 14:44:14+03:00,https://hh.ru/vacancy/125662057
+124964581,Python Developer (Data Science),,,RUR,between3And6,От 3 до 6 лет,"CI/CD, Docker, FastAPI, MongoDB, Python, React, Redis, pytest",Санкт-Петербург,2025-09-05 19:38:18+03:00,https://hh.ru/vacancy/124964581
+120806401,Ведущий разработчик Python,,,RUR,between3And6,От 3 до 6 лет,"Flask, MongoDB, Python, Redis",Москва,2025-09-30 19:02:07+03:00,https://hh.ru/vacancy/120806401
+122459875,Backend разработчик (Python DRF),,,RUR,between1And3,От 1 года до 3 лет,"Django, REST, SQL",Москва,2025-10-02 10:51:18+03:00,https://hh.ru/vacancy/122459875
+124869129,Python- разработчик (ML Engineer),,,RUR,between3And6,От 3 до 6 лет,"API, Python",Москва,2025-09-04 11:58:34+03:00,https://hh.ru/vacancy/124869129
+125435330,Python разработчик в офис,,,RUR,between3And6,От 3 до 6 лет,Python,Саратов,2025-09-17 12:48:04+03:00,https://hh.ru/vacancy/125435330
+124933791,"Python-разработчик (middle, middle+)",,,RUR,between3And6,От 3 до 6 лет,Python,Ростов-на-Дону,2025-09-05 13:14:32+03:00,https://hh.ru/vacancy/124933791
+121923039,Python-developer,175000.0,,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Санкт-Петербург,2025-09-21 08:07:24+03:00,https://hh.ru/vacancy/121923039
+124027508,Python-разработчик в команду ИИ для сотрудников,,,RUR,between3And6,От 3 до 6 лет,,Москва,2025-09-30 18:44:41+03:00,https://hh.ru/vacancy/124027508
+124920610,"Разработчик логики (Python, LLM/Prompt Engineering) - Казахстан",,,RUR,between3And6,От 3 до 6 лет,"Flask, Python, REST",Алматы,2025-09-05 10:51:02+03:00,https://hh.ru/vacancy/124920610
+125850760,Python Backend / Fullstack-разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Python, React",Москва,2025-09-26 16:25:14+03:00,https://hh.ru/vacancy/125850760
+125073038,Python Developer,,283530.0,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-09 05:20:48+03:00,https://hh.ru/vacancy/125073038
+124083797,Middle Python Developer,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-12 16:34:49+03:00,https://hh.ru/vacancy/124083797
+122230525,Senior Python developer (E-commerce),,,RUR,between3And6,От 3 до 6 лет,"Django, Python",Москва,2025-09-12 11:20:58+03:00,https://hh.ru/vacancy/122230525
+121514334,Python Programmer,,,RUR,between1And3,От 1 года до 3 лет,Python,Ташкент,2025-10-02 12:09:10+03:00,https://hh.ru/vacancy/121514334
+124648752,Trainee/Python Developer,,,RUR,noExperience,Нет опыта,"Django, FastAPI, Flask, Python",Могилев,2025-09-28 17:17:17+03:00,https://hh.ru/vacancy/124648752
+125284946,Senior Python Developer Backend,200000.0,300000.0,RUR,between1And3,От 1 года до 3 лет,"Flask, MongoDB, Python, SQL",Астана,2025-09-12 16:46:21+03:00,https://hh.ru/vacancy/125284946
+126103868,Python разработчик / Django (Wagtail) / Middle в офис,,,RUR,between1And3,От 1 года до 3 лет,"API, Docker, Git, Python",Краснодар,2025-10-03 11:11:55+03:00,https://hh.ru/vacancy/126103868
+124170582,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Екатеринбург,2025-09-16 14:16:27+03:00,https://hh.ru/vacancy/124170582
+113014072,Python developer (Senior\Lead),,,RUR,moreThan6,Более 6 лет,"Kafka, Python, RabbitMQ",Москва,2025-09-07 15:20:31+03:00,https://hh.ru/vacancy/113014072
+123636446,Python developer,150000.0,250000.0,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Калининград,2025-09-04 11:00:31+03:00,https://hh.ru/vacancy/123636446
+125728668,"Python-разработчик (ML, Middle)",,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-29 09:59:17+03:00,https://hh.ru/vacancy/125728668
+125607867,Senior Python developer,,,RUR,moreThan6,Более 6 лет,"PostgreSQL, Python, asyncio",Санкт-Петербург,2025-10-01 13:54:00+03:00,https://hh.ru/vacancy/125607867
+125046354,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-18 10:11:57+03:00,https://hh.ru/vacancy/125046354
+124469128,Python backend-разработчик (Middle/Senior),,,RUR,between3And6,От 3 до 6 лет,Python,Пермь,2025-09-09 14:26:34+03:00,https://hh.ru/vacancy/124469128
+124830246,Python-разработчик,,,RUR,between1And3,От 1 года до 3 лет,Python,Нижний Новгород,2025-09-03 15:31:10+03:00,https://hh.ru/vacancy/124830246
+124188276,Python-разработчик (ESC),,,RUR,between3And6,От 3 до 6 лет,"FastAPI, asyncio",Москва,2025-09-17 17:00:52+03:00,https://hh.ru/vacancy/124188276
+125229130,Middle+ Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, PostgreSQL",Минск,2025-09-11 14:27:28+03:00,https://hh.ru/vacancy/125229130
+125260643,Data Scientist / Python разработчик,,,RUR,between1And3,От 1 года до 3 лет,Python,Ростов-на-Дону,2025-10-03 10:08:07+03:00,https://hh.ru/vacancy/125260643
+125154982,Senior Python-разработчик,500000.0,,RUR,between3And6,От 3 до 6 лет,"Linux, Python",Москва,2025-10-01 13:30:32+03:00,https://hh.ru/vacancy/125154982
+125385372,Ведущий разработчик-эксперт Python/Postgres,350000.0,,RUR,moreThan6,Более 6 лет,"Linux, PostgreSQL, Python",Москва,2025-09-18 17:43:18+03:00,https://hh.ru/vacancy/125385372
+114576137,Python AI-developer,,,RUR,between3And6,От 3 до 6 лет,"Airflow, FastAPI, PyTorch, Python, TensorFlow",Москва,2025-09-08 11:57:35+03:00,https://hh.ru/vacancy/114576137
+125670991,Python-разработчик,64807.0,97210.0,RUR,between3And6,От 3 до 6 лет,"API, Python",Астана,2025-09-23 17:20:30+03:00,https://hh.ru/vacancy/125670991
+125426940,Backend-разработчик Python/Django,140140.0,,RUR,between1And3,От 1 года до 3 лет,"API, CI/CD, Celery, Django, Kubernetes, PostgreSQL, Python, REST, RabbitMQ, Redis",Астана,2025-10-02 11:03:43+03:00,https://hh.ru/vacancy/125426940
+125503298,Senior Python Developer (Computer Vision / ML),445547.0,,RUR,moreThan6,Более 6 лет,"FastAPI, Linux, Python",Москва,2025-09-30 21:12:34+03:00,https://hh.ru/vacancy/125503298
+125529502,Senior Python developer,324034.0,486051.0,RUR,moreThan6,Более 6 лет,"API, Django, FastAPI, Flask, Git, JavaScript, Pandas, Python, REST",Сербия,2025-09-19 13:19:47+03:00,https://hh.ru/vacancy/125529502
+125092240,Python developer,150000.0,250000.0,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Казань,2025-09-09 11:30:25+03:00,https://hh.ru/vacancy/125092240
+125207979,"Python-разработчик Middle+ (офис, СПб)",,,RUR,between3And6,От 3 до 6 лет,"API, Python, SQL",Санкт-Петербург,2025-10-02 10:30:54+03:00,https://hh.ru/vacancy/125207979
+113705688,Senior Python-developer,270000.0,420000.0,RUR,between3And6,От 3 до 6 лет,"Python, SQL",Нижний Новгород,2025-09-12 10:18:39+03:00,https://hh.ru/vacancy/113705688
+125491242,Python-разработчик (СберБизнесБот),,,RUR,between1And3,От 1 года до 3 лет,Python,Москва,2025-09-30 15:39:09+03:00,https://hh.ru/vacancy/125491242
+125270081,Разработчик (Python Django),300000.0,380000.0,RUR,moreThan6,Более 6 лет,"API, Angular, Django, GraphQL, Kafka, PostgreSQL, Python, REST, RabbitMQ, Redis",Москва,2025-10-03 12:36:24+03:00,https://hh.ru/vacancy/125270081
+124491651,Senior Backend Python Developer (+Rust),,,RUR,between3And6,От 3 до 6 лет,"API, CI/CD, MySQL, Python, Redis, Rust",Красноярск,2025-09-19 06:20:20+03:00,https://hh.ru/vacancy/124491651
+125252659,"Senior backend разработчик (Golang, Python)",,,RUR,moreThan6,Более 6 лет,"PostgreSQL, Python",Москва,2025-09-12 06:51:59+03:00,https://hh.ru/vacancy/125252659
+123436387,Middle Frontend разработчик (Python),,200000.0,RUR,between3And6,От 3 до 6 лет,"Python, React, Vue",Москва,2025-09-26 13:45:47+03:00,https://hh.ru/vacancy/123436387
+125110287,Senior Python Developer (Маркетинг),,,RUR,between3And6,От 3 до 6 лет,"Django, Python",Москва,2025-10-03 11:30:52+03:00,https://hh.ru/vacancy/125110287
+124123373,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Санкт-Петербург,2025-09-29 11:27:35+03:00,https://hh.ru/vacancy/124123373
+124170500,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-16 14:16:21+03:00,https://hh.ru/vacancy/124170500
+123297423,Python разработчик (Middle+ / Senior),,,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Python",Москва,2025-09-26 09:59:01+03:00,https://hh.ru/vacancy/123297423
+125917654,ML инженер/AI/AI-agent developer (Python),,240000.0,RUR,moreThan6,Более 6 лет,,Москва,2025-09-29 17:23:34+03:00,https://hh.ru/vacancy/125917654
+119302455,Middle Python разработчик,,,RUR,between1And3,От 1 года до 3 лет,"Django, FastAPI, Python",Москва,2025-09-15 20:29:23+03:00,https://hh.ru/vacancy/119302455
+124190230,Senior Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"FastAPI, PostgreSQL, Python, SQL, asyncio",Москва,2025-09-17 12:15:51+03:00,https://hh.ru/vacancy/124190230
+125162265,Разработчик DWH/Data Engineer (Python),,,RUR,between3And6,От 3 до 6 лет,"Airflow, CI/CD, Python",Москва,2025-10-01 15:12:06+03:00,https://hh.ru/vacancy/125162265
+124950918,AI Agent Developer (Python),,,RUR,between3And6,От 3 до 6 лет,"PyTorch, Python, TensorFlow",Москва,2025-10-03 11:00:22+03:00,https://hh.ru/vacancy/124950918
+125295173,Full-stack разработчик React.js + Python [Strong Junior],80000.0,120000.0,RUR,between1And3,От 1 года до 3 лет,"FastAPI, Python",Москва,2025-09-13 22:00:55+03:00,https://hh.ru/vacancy/125295173
+125530564,Python-разработчик в VK,,,RUR,moreThan6,Более 6 лет,"Django, FastAPI, Python",Москва,2025-09-19 13:53:46+03:00,https://hh.ru/vacancy/125530564
+125612837,Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, Flask, Python, SQL",Санкт-Петербург,2025-09-22 15:09:38+03:00,https://hh.ru/vacancy/125612837
+124712809,Web-разработчик (Python),,,RUR,moreThan6,Более 6 лет,"Django, FastAPI, Python",Москва,2025-09-27 20:53:36+03:00,https://hh.ru/vacancy/124712809
+122854262,Python Developer (MLOps Team),,,RUR,between3And6,От 3 до 6 лет,"API, FastAPI, Kafka, Python, RabbitMQ",Тбилиси,2025-09-22 14:38:58+03:00,https://hh.ru/vacancy/122854262
+124748121,Разработчик Python в LLM Platform,,,RUR,between3And6,От 3 до 6 лет,"Docker, FastAPI, Kubernetes, PostgreSQL, Python",Москва,2025-09-30 13:54:22+03:00,https://hh.ru/vacancy/124748121
+125494421,Python-разработчик,,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-18 16:20:40+03:00,https://hh.ru/vacancy/125494421
+124010144,Инженер-программист (C++/Python),,,RUR,between3And6,От 3 до 6 лет,Python,Москва,2025-09-05 20:52:56+03:00,https://hh.ru/vacancy/124010144
+118074934,Разработчик автоматизированных тестов/SDET Python (MAC),,,RUR,between1And3,От 1 года до 3 лет,"Linux, Python",Санкт-Петербург,2025-09-25 19:25:27+03:00,https://hh.ru/vacancy/118074934
+122428449,Senior Python разработчик на платформу управления виртуализацией,,,RUR,moreThan6,Более 6 лет,"Python, asyncio",Москва,2025-09-26 11:27:58+03:00,https://hh.ru/vacancy/122428449
+123761902,Разработчик Python (Серверная Астра),,,RUR,between3And6,От 3 до 6 лет,"Bash, Python",Москва,2025-09-06 17:26:17+03:00,https://hh.ru/vacancy/123761902
+125416144,Python-разработчик (ML Engineer),,,RUR,between3And6,От 3 до 6 лет,"API, Python",Санкт-Петербург,2025-09-17 08:24:06+03:00,https://hh.ru/vacancy/125416144
+125765333,Разработчик Python (ML\ LLM),,280000.0,RUR,between3And6,От 3 до 6 лет,"FastAPI, Kafka, Python, asyncio",Москва,2025-09-25 13:15:27+03:00,https://hh.ru/vacancy/125765333
+124856867,Middle Backend Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Django, REST",Астана,2025-09-29 13:32:53+03:00,https://hh.ru/vacancy/124856867
+125713212,Python разработчик (Fast api),,,RUR,between3And6,От 3 до 6 лет,"Python, RabbitMQ",Краснодар,2025-09-24 14:54:53+03:00,https://hh.ru/vacancy/125713212
+123636253,Ведущий Python разработчик,250000.0,350000.0,RUR,moreThan6,Более 6 лет,"Python, SQL",Казань,2025-09-04 10:58:51+03:00,https://hh.ru/vacancy/123636253
+111235935,Python Developer in Test / Инженер-программист (KORNFELD),,,RUR,between1And3,От 1 года до 3 лет,"Python, asyncio, pytest",Москва,2025-09-04 18:27:38+03:00,https://hh.ru/vacancy/111235935
+124922212,Инженер-разработчик Python (производственное тестирование),,,RUR,between1And3,От 1 года до 3 лет,"Python, asyncio",Санкт-Петербург,2025-09-05 11:01:01+03:00,https://hh.ru/vacancy/124922212
+125454271,Python Fullstack Developer (Python + React/Angular/Vue),,,RUR,between1And3,От 1 года до 3 лет,"Django, FastAPI, Flask, Python",Минск,2025-09-17 18:31:43+03:00,https://hh.ru/vacancy/125454271
+125834350,Python разработчик (MLOps) / Инженер поддержки ML-систем,,,RUR,between1And3,От 1 года до 3 лет,Python,Екатеринбург,2025-09-26 11:26:49+03:00,https://hh.ru/vacancy/125834350
+125222518,Part-time Python Lead developer | Side-job,,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-09-11 13:17:37+03:00,https://hh.ru/vacancy/125222518
+125404032,Middle/Senior Python разработчик,,,RUR,between3And6,От 3 до 6 лет,"Django, Python",Москва,2025-10-03 05:24:50+03:00,https://hh.ru/vacancy/125404032
+123435668,Middle + Python developer (Django/FastAPI) AdTech (в офисе),170000.0,250000.0,RUR,between3And6,От 3 до 6 лет,"Node.js, Python, React",Москва,2025-09-23 00:19:23+03:00,https://hh.ru/vacancy/123435668
+125320995,Python Developer,,,RUR,between3And6,От 3 до 6 лет,"Python, pytest",Минск,2025-09-15 11:15:08+03:00,https://hh.ru/vacancy/125320995
+122955976,Python Developer (Data Team),,,RUR,between3And6,От 3 до 6 лет,"API, Airflow, PostgreSQL, Python",Тбилиси,2025-09-22 14:39:01+03:00,https://hh.ru/vacancy/122955976
+125394465,Разработчик на python в команду инфраструктуры Браузера,,,RUR,moreThan6,Более 6 лет,Python,Москва,2025-09-16 15:00:57+03:00,https://hh.ru/vacancy/125394465
+125595658,Python developer (Django),,,RUR,between3And6,От 3 до 6 лет,"Django, FastAPI, Python, SQL",Минск,2025-10-01 11:14:47+03:00,https://hh.ru/vacancy/125595658
+124999475,Ведущий разработчик Python (ML),,,RUR,between3And6,От 3 до 6 лет,"FastAPI, Flask, Python",Москва,2025-09-08 10:39:16+03:00,https://hh.ru/vacancy/124999475
+125445485,Python разработчик (middle+ / senior),,,RUR,moreThan6,Более 6 лет,"Django, Python",Москва,2025-09-25 10:24:40+03:00,https://hh.ru/vacancy/125445485
+125540173,Senior Python разработчик,,,RUR,moreThan6,Более 6 лет,"Docker, Linux, MongoDB, PostgreSQL, Python, Redis, SQL, asyncio",Москва,2025-09-19 16:20:58+03:00,https://hh.ru/vacancy/125540173
+125492919,Python Developer (Dubai onsite),,,RUR,moreThan6,Более 6 лет,,Москва,2025-09-18 16:00:39+03:00,https://hh.ru/vacancy/125492919
+124686769,Senior Python Developer (AI & Data Science),150000.0,,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Grafana, PostgreSQL, Prometheus, Python, REST, SQL",Краснодар,2025-09-30 13:02:27+03:00,https://hh.ru/vacancy/124686769
+124886498,Python Developer MLOps,,,RUR,moreThan6,Более 6 лет,"Airflow, Python",Кипр,2025-09-04 16:13:45+03:00,https://hh.ru/vacancy/124886498
+124223509,Python Developer,,,RUR,between1And3,От 1 года до 3 лет,Python,Минск,2025-09-18 12:28:33+03:00,https://hh.ru/vacancy/124223509
+125531563,Python разработчик (Middle/Senior),,,RUR,between3And6,От 3 до 6 лет,"API, Django, FastAPI, Python",Москва,2025-09-19 13:57:44+03:00,https://hh.ru/vacancy/125531563
