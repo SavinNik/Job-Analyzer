@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, DateTime, Float, ARRAY
+from sqlalchemy import Column, Integer, String, DateTime, ARRAY
 from sqlalchemy.ext.declarative import declarative_base
 from datetime import datetime, timezone
 
@@ -16,5 +16,5 @@ class Vacancy(Base):
     experience_label = Column(String)
     skills = Column(ARRAY(String))
     area_name = Column(String)
-    published_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
+    published_at = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
     url = Column(String)
