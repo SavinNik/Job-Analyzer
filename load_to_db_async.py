@@ -4,7 +4,7 @@ from pathlib import Path
 import logging
 import pandas as pd
 from datetime import datetime as dt
-from src.db.session import async_session, init_db
+from src.db.session import AsyncSessionLocal, init_db
 from src.db.models import Vacancy
 
 logger = logging.getLogger(__name__)
@@ -32,7 +32,7 @@ async def load_csv_to_db(csv_path: Path):
     df = pandas.read_csv(csv_path)
     df["skills"] = df["skills"].apply(lambda skills: skills.split(", ") if pd.notna(skills) and skills else [])
 
-    async with async_session() as session:
+    async with AsyncSessionLocal() as session:
         try:
             for _, row in df.iterrows():
                 def to_none_if_nan(value):
