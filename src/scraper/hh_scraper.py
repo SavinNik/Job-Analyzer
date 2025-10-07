@@ -86,7 +86,7 @@ class HHVacanciesParser:
                 "text": query,
                 "page": page,
                 "per_page": 100,
-                "search_field": "name",
+                # "search_field": "name",
                 "industry": industry
             }))
 
