@@ -124,7 +124,7 @@ else:
     st.warning("Нет данных о навыках")
 
 # График 2: Средняя зарплата по опыту
-st.subheader("Средняя зарплата по опыту")
+st.subheader("Средняя зарплата по уровню опыта")
 df_salaries = pd.DataFrame(salaries)
 if not df_salaries.empty:
     fig2 = px.bar(
