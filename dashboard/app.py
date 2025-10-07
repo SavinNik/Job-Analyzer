@@ -140,40 +140,67 @@ if not df_salaries.empty:
 else:
     st.warning("Нет данных о зарплатах")
 
-    # График 3: Популярность навыков за последние N дней
-st.subheader(f"Популярность навыков за последние {skills_days} дней")
+# График 3: Рост/падение навыков
+st.subheader(f"Динамика навыков за последние {skills_days} дней")
 if trends and len(trends) > 0:
     df_trends = pd.DataFrame(trends)
-    if not df_trends.empty and 'skill' in df_trends.columns and 'count_last_days' in df_trends.columns:
-        # Сортируем навыки по количеству упоминаний
-        df_trends = df_trends.sort_values('count_last_days', ascending=True)
-
-        # Создаем горизонтальную гистограмму
-        fig = px.bar(
-            df_trends,
-            x='count_last_days',
-            y='skill',
-            orientation='h',
-            text='count_last_days',
-            labels={'skill': 'Навык', 'count_last_days': 'Количество упоминаний'}
+    
+    # Заменяем inf на большое число для сортировки
+    df_trends["sort_key"] = df_trends["growth_pct"].replace(float('inf'), 9999)
+    
+    # Сортируем: сначала рост, потом новые, потом падение
+    df_trends = df_trends.sort_values("sort_key", ascending=False).head(20)
+    
+    # Создаем столбец для отображения
+    def format_growth(x):
+        if x["growth_pct"] == float('inf'):
+            return "новый"
+        try:
+            # Пробуем преобразовать в число, если это строка
+            value = float(x['growth_pct']) if isinstance(x['growth_pct'], str) else x['growth_pct']
+            return f"{value:+.1f}%"
+        except (ValueError, TypeError):
+            return str(x['growth_pct'])
+    
+    df_trends["growth_display"] = df_trends.apply(format_growth, axis=1)
+    
+    # Заменяем inf на None для отображения
+    df_trends["growth_pct"] = df_trends["growth_pct"].replace(float('inf'), None)
+    
+    # Создаем график
+    fig3 = px.bar(
+        df_trends,
+        x="growth_pct",
+        y="skill",
+        orientation="h",
+        text="growth_display",
+        color="growth_pct",
+        color_continuous_scale=["red", "yellow", "green"],
+        range_color=[-100, 100],
+        labels={"growth_pct": "Рост, %", "skill": "Навык"},
+    )
+    
+    # Настраиваем внешний вид
+    fig3.update_traces(
+        textposition="outside",
+        textfont_size=12,
+        texttemplate='%{text}'
+    )
+    
+    fig3.update_layout(
+        height=max(500, len(df_trends) * 25),
+        xaxis_title="Рост популярности, %",
+        yaxis_title="",
+        coloraxis_colorbar=dict(
+            title="Рост, %",
+            tickformat=".1f%"
         )
-
-        # Настраиваем отображение
-        fig.update_traces(
-            textposition='outside',
-            texttemplate='%{x:,.0f}'
-        )
-
-        # Настраиваем высоту графика в зависимости от количества навыков
-        height = max(400, len(df_trends) * 30)
-        fig.update_layout(height=height)
-
-        st.plotly_chart(fig, use_container_width=True)
-    else:
-        st.warning("Неверный формат данных о навыках")
-        st.dataframe(df_trends)  # Показываем сырые данные для отладки
+    )
+    
+    st.plotly_chart(fig3, use_container_width=True)
 else:
-    st.warning("Нет данных о популярности навыков")
+    st.warning("Нет данных о динамике навыков")
+
 
 # График 4: Рост вакансий за последние N дней
 st.subheader(f"Динамика количества вакансий за {vacancy_days} дней")
