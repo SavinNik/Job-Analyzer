@@ -58,10 +58,10 @@ async def load_csv_to_db(csv_path: Path):
             logger.error(f"Ошибка при загрузке вакансий в базу данных: {e}")
             await session.rollback()
 
-async def main():
+async def main_db():
     await init_db()
     latest_csv = await get_latest_processed_file()
     await load_csv_to_db(latest_csv)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(main_db())

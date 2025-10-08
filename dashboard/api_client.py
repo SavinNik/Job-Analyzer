@@ -1,7 +1,7 @@
 import httpx
 from typing import Dict, Any, List
 
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://job-analyzer-riib.onrender.com"
 
 async def fetch_top_skills(limit: int = 20) -> List[Dict[str, Any]]:
     async with httpx.AsyncClient() as client:
