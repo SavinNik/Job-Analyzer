@@ -1,0 +1,22 @@
+name: CI
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install -r dashboard/requirements.txt
+      - name: Run unit tests
+        run: pytest tests/ -v
+      - name: Run E2E tests (headless)
+        run: |
+          pip install playwright
+          playwright install chromium
+          python -m pytest tests/test_dashboard_e2e.py -v

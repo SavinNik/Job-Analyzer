@@ -1,18 +1,28 @@
 import asyncio
+import sys
 from src.scraper.hh_scraper import run_parser
 from src.run_etl import clean_and_save_vacancies
-from load_to_db_async import main_db
+from load_to_db_async import main_db as load_to_db
 
 async def job():
-    print("Запуск парсера")
-    await run_parser()
+    print("App started")
+    try:
+        await run_parser()
+        clean_and_save_vacancies()
+        await load_to_db()
+        print("App completed")
+    except Exception as e:
+        print(f"App failed: {e}", file=sys.stderr)
+        sys.exit(1)
 
-    print("Очистка и сохранение вакансий")
-    clean_and_save_vacancies()
+async def main():
+    await job()
 
-    print("Загрузка вакансий в базу данных")
-    await main_db()
+    while True:
+        await asyncio.sleep(24 * 60 * 60)
+        await job()
+
 
 if __name__ == "__main__":
-    asyncio.run(job())
+    asyncio.run(main())
 

@@ -20,7 +20,7 @@ logger = logging.getLogger(__name__)
 
 
 def get_current_currency():
-    """Получаем текущий курс валют с ЦБ РФ (один раз за запуск)."""
+    """Получаем текущий курс валют с ЦБ РФ"""
     try:
         url = "https://www.cbr-xml-daily.ru/daily_json.js"
         with httpx.Client(timeout=10.0) as client:

@@ -5,6 +5,8 @@ from sqlalchemy.ext.asyncio import AsyncEngine
 
 
 DATABASE_URL = os.getenv("DATABASE_URL")
+if not DATABASE_URL:
+    raise ValueError("DATABASE_URL не задан")
 
 engine: AsyncEngine = create_async_engine(DATABASE_URL, echo=True)
 AsyncSessionLocal = async_sessionmaker(bind=engine, expire_on_commit=False)

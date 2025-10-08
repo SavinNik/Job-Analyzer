@@ -1,7 +1,4 @@
-from dotenv import load_dotenv
 import os
-
-load_dotenv()
 
 HH_QUERY = os.getenv("HH_QUERY", "Python разработчик")
 HH_INDUSTRY = int(os.getenv("HH_INDUSTRY", 7))
